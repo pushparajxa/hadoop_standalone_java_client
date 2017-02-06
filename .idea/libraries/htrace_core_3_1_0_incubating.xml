@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="htrace-core-3.1.0-incubating">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../hadoop/hadoop-2.7.3 2/share/hadoop/common/lib/htrace-core-3.1.0-incubating.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

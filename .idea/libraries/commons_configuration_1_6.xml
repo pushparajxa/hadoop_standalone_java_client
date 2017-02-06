@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="commons-configuration-1.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../hadoop/hadoop-2.7.3 2/share/hadoop/common/lib/commons-configuration-1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

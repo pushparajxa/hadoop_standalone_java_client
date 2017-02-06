@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="guava-11.0.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../hadoop/hadoop-2.7.3 2/share/hadoop/tools/lib/guava-11.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
